@@ -1,2 +1,2 @@
 # Futuro Lavoro
-Repository di alcune idee sul progetto Futuro Lavoro
+Repository di alcune idee sul progetto di Futuro Lavoro
